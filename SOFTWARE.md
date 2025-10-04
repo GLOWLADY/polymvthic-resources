@@ -167,6 +167,7 @@
 * [Macspoof](https://github.com/feross/spoof)
 
 ### # AI & LLMS
+* [Claude](https://claude.ai/)
 * [Cursor](https://cursor.sh/)
 * [ChatGPT](https://chat.openai.com/)
 * [Grok](https://grok.x.ai/)
