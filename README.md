@@ -131,4 +131,4 @@ Built by humans who value freedom, privacy, and continuous learning.
 
 **⭐ Star this repo if it helped you build a better stack.**
 
-**🔱 POLYMVTHIC PUNKS** - *Where hackers meet polymaths.*
+**🔱 POLYMVTHIC PUNKS** - *jvck of all trades, master of many*
