@@ -1,6 +1,6 @@
 # POLYMVTHIC RESOURCES
 
-> **The definitive resource list for polymaths who value privacy, creativity, and autonomy.**
+> **The definitive resource list for polymaths who value privacy, creativity, and freedom.**
 > 
 > From Bitcoin wallets to cartel memoirs, command-line tools to cognitive psychology—if it sharpens your mind or secures your freedom, it's here.
 
@@ -10,7 +10,9 @@
 
 Most resource lists are one-dimensional: privacy tools for paranoid nerds, or business books for MBA types, or dev tools for coders. **This isn't that.**
 
-We believe in **polymathic thinking**—the ability to draw insights from wildly different domains and synthesize them into something new. Our stack reflects real-world workflows across:
+We believe that the future will belong to those non-obvious thinkers who use their wide-ranging powers of interdisciplinary exploration to see connections between multiple, seemingly unrelated domains.
+
+Our stack reflects real-world workflows across:
 
 - **Privacy & Security** (OpSec, encryption, anonymity)
 - **Business & Strategy** (entrepreneurship, marketing, persuasion)  
@@ -19,7 +21,7 @@ We believe in **polymathic thinking**—the ability to draw insights from wildly
 - **Hacking & Development** (from Hashcat to AI agents)
 - **Culture & History** (true crime, biographies, underworld narratives)
 
-This list proves we've actually done the work across all these domains. It's our cognitive fingerprint—and we're sharing it with you.
+This list is our ever-evolving cognitive fingerprint, and each item reflects our personal passions, breadth and depth of knowledge, and invaluable pieces of ourselves and individual workflows—and we're happy to share it with you 
 
 ---
 
